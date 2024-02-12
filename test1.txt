@@ -3,4 +3,5 @@ second commit
 therad commit
 c4 in dev branch
 c5 wrong commit
+c6 if the git revert work the maybe c5 line easer 
 
